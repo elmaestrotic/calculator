@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">repapp</string>
+    <string name="text_btn1">Ir a Segunda Pantalla</string>
+    <string name="text_btn2">Volver</string>
+    <string name="text_bienvenida">¡Bienvenido!</string>
+    <string name="txt1_texto">Ingrese un Entero</string>
+    <string name="txt2_texto">Ingrese otro Entero</string>
+
+    <string name="txtsalida">Resultado</string>
+    <string name="texto_suma">+</string>
+    <string name="texto_resta">-</string>
+    <string name="texto_multi">*</string>
+    <string name="texto_divi">/</string>
+
+</resources>
